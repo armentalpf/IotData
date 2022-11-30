@@ -1,0 +1,21 @@
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+IotDataBool	KEYWORD1
+IotDataFloat	KEYWORD1
+IotDataText	KEYWORD1
+IotDataInt	KEYWORD1
+IotSubtopicBool KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin	KEYWORD2
+getSubtopic	KEYWORD2
+getGroup	KEYWORD2
+getTopic	KEYWORD2
+getPayload	KEYWORD2
+setPayload	KEYWORD2
